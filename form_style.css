@@ -34,6 +34,36 @@ p, legend {
 }
 
 
+	/* Descendant selectors */
+form b {
+	color: blue;
+}
+
+div p {
+	font-style: italic;
+}
+
+	/* Child selectors */
+div > p > label {
+	background-color: yellow;
+}
+section > p {
+	background-color: grey;
+}
+
+	/* Sibling selectors */
+h2 ~ p {
+	text-decoration: underline;
+}
+
+	/* Adjacent Sibling Selectors */
+h2 + p {
+	color: pink;
+}
+
+
+	
+
 /* for a smartphone iphone 6/7/8	 */
 @media screen and (max-width: 375px) {
 	*,
