@@ -1,10 +1,14 @@
 Place to keep Assignment Tasks
 
-Week 3 
-Added two descendant selectors to your last assignment.  This will include adding the selectors to your CSS file and may include changes to your HTML file if two unique descendants are not currently available.
+Week 3 - Part 1
+1. Added two descendant selectors to your last assignment.  This will include adding the selectors to your CSS file and may include changes to your HTML file if two unique descendants are not currently available.
+2. Added two child selectors to your last assignment.
+3. Added one sibling selector to your last assignmennt.
+4. Added an adjacent sibling selector to your last assignment.
 
-Added two child selectors to your last assignment.
-
-Added one sibling selector to your last assignmennt.
-
-Added an adjacent sibling selector to your last assignment.
+Week 3 - Part 2
+1.  a. Create a new html file called: boxmodel.html (the css can live inside this file).
+    b. Create an example which shows the difference between two block elements and two inline elements
+2.  In the html file you created earlier, implement the code found on the next slide.  Using HTML comments, explain what is happening in this snippet of code.
+3.  Change the CSS in the previous code to utilize one of the short cuts.  Save file as boxmodel_shortcut.html
+4.  Negative Margins: Alter the exampleusing negative margins to produce the image on the next slide (name the file negative.html - css can live within the file).
