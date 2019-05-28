@@ -16,6 +16,8 @@ fieldset {
 
 Week 3 - GitHub Desktop and Advanced Selectors
 
+Week 4 (in class) - Transitions and Transforms
+
 ### Prerequisites
 
 A knowledge of HTML5 is a pre-requisite for this course.
