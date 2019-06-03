@@ -6,3 +6,9 @@ Example 1 - Defining a Grid
 Example 2 - Line Based Placement
 Example 3 - Line Based Named Lines
 Example 4 - Defined Grid Areas
+
+Part 2
+
+Example 1 - Auto-Placement
+Example 2 - Auto-Flow Column
+Example 3 - Auto-Placement and Placed
