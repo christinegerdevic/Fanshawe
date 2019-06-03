@@ -23,11 +23,10 @@ Week 5 - Menus
  -Simple side navigation bar menu
  
 Week 6 - Grids
- Part 1 - Intro to Grids
-   Define a Grid
-   Use Number based and Name based system to line-up the grid
- Part 2 - Grid Auto Placement; Grid Auto-Flow Column; Grid Auto-Placement and Placed
-
+```
+Part 1 - Intro to Grids; Define a Grid; Use Number based and Name based system to line-up the grid
+Part 2 - Grid Auto Placement; Grid Auto-Flow Column; Grid Auto-Placement and Placed
+```
 ### Prerequisites
 
 A knowledge of HTML5 is a pre-requisite for this course.
