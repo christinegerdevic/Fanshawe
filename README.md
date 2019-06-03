@@ -21,6 +21,11 @@ Week 4 (in class) - Transitions and Transforms
 Week 5 - Menus
  -Simple animated drop-down menu
  -Simple side navigation bar menu
+ 
+Week 6 - Grids
+ Part 1 - Intro to Grids
+   Define a Grid
+   Use Number based and Name based system to line-up the grid
 
 ### Prerequisites
 
