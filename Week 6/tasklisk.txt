@@ -12,3 +12,8 @@ Part 2
 Example 1 - Auto-Placement
 Example 2 - Auto-Flow Column
 Example 3 - Auto-Placement and Placed
+
+Part 3
+
+Example 1 - Nested Grids
+
