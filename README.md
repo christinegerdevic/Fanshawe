@@ -26,6 +26,7 @@ Week 6 - Grids
  Part 1 - Intro to Grids
    Define a Grid
    Use Number based and Name based system to line-up the grid
+ Part 2 - Grid Auto Placement; Grid Auto-Flow Column; Grid Auto-Placement and Placed
 
 ### Prerequisites
 
