@@ -1,0 +1,8 @@
+Task List for Week 6 - Grids
+
+Part 1
+
+Example 1 - Defining a Grid
+Example 2 - Line Based Placement
+Example 3 - Line Based Named Lines
+Example 4 - Defined Grid Areas
